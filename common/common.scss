@@ -333,7 +333,7 @@
 //styling excluding tiles
 html:not(>tile-style) {
   .topic-list .link-bottom-line {
-    display: block;
+    display: flex;
   }
 
   .topic-thumbnail {
